@@ -12,7 +12,7 @@ Rulebook for the Lords &amp; Lads stump variant
 ## Setting up
 ### Nails
 Begin by hammering 1 nail for each player into the stump. All nails should be placed along the same ring of the stump. 
-All nails should be hammered to an equal, agreed upon depth. Hammer the 3 center nails into the center of the stump. 
+All nails should be hammered to an equal, agreed upon depth. Hammer the 3 center nails into the center of the stump to an agreed upon depth. 
 All players must stand around the stump by their nail.
 
 
@@ -76,7 +76,7 @@ Each successful strike on a nail grants the player one drink to give out during 
 Each miss is one drink the player must take themselves during the Drink phase.
 
 
-If a player hits the wrong nail it counts as a miss. If doing so results in the final center nail being hammered into the stump, A new center nail is created and the current player is removed from the game.
+If a player hits the wrong nail it counts as a miss. If doing so results in the final center nail being hammered into the stump, A new center nail must be hammered into the center of the stump and the current player is removed from the game.
 
 
 #### Drink
@@ -84,7 +84,7 @@ A "Drink" is a consistent unit which must be decided upon before the game begins
 
 
 During the drink phase the player may give out drinks for each successful strike they made during the Strike phase. 
-For each strike made as a Lad, that player may give a drink out to another Lad. For each strike made as a Lord, that player may give a drink out to another Lord or make all remaining Lads drink at once.
+For each strike made as a Lad, that player may give a drink out to another Lad. For each strike made as a Lord, that player may give a drink out to another Lord or make all remaining Lads drink at once. A Lad cannot make a Lord drink.
 
 
 The final strike of a starting nail is considered a strike made as a Lord, as that player becomes a Lord simultaneously to striking the nail.
@@ -96,7 +96,7 @@ The final strike of the game (the last center nail) is considered a strike made 
 The player then must drink for each missed strike he or she performed during the Strike phase.
 
 
-Drinks may only be given out as long as the current player holds the hammer. If the player gives away the hammer without giving out drinks, their turn ends immediately and they forfeit giving out those drinks. However, they still must drink for each missed strike they made. Giving away the hammer for a hammer test does not count as forfeiting the hammer, and the player performing the hammer test must return the hammer when they are finished.
+Drinks may only be given out as long as the current player holds the hammer. If the player gives away the hammer without giving out drinks, their turn ends immediately and they forfeit giving out those drinks. However, they still must drink for each missed strike they made. Giving away the hammer for a Hammer Test does not count as forfeiting the hammer, and the player performing the Hammer Test must return the hammer when they are finished.
 
 
 At the end of the Drink phase, the game ends and the current player wins if all 3 center nails are hammered completely into the stump. Otherwise the player passes the hammer to the next player in turn order and they begin their turn on the Flip phase.
@@ -114,7 +114,7 @@ If the Hammer Test is performed during another players turn and that player give
 ### Demotions
 
 
-If a Lord drops their hammer during the Flip phase they are instantly demoted to Lad. Before ending their turn they must drive in a new starting nail to the center position. 
+If a Lord drops their hammer during the Flip phase they are instantly demoted to Lad. Before ending their turn they must drive in a new starting nail to the outer ring. 
 
 
 
