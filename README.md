@@ -108,13 +108,13 @@ At the end of the Drink phase, the game ends and the current player wins if all 
 A Hammer Test can be performed by any player to determine if a nail has been completely hammered into the stump. For a nail that has been hit in vertically, the hammer is turned sideways the head is run over the nail from all angles. The nail is considered completely hammered in if the hammer does not clink with the nail. For a nail hit in sideways the same rule applies except the hammer is run over the nail both ways lengthwise. If everyone agrees a nail is completely hammered in then the Hammer Test can be skipped. Any player may challenge another player's nail during their turn via the Hammer Test.
 
 
-If the Hammer Test is performed during another players turn and that player gives up the hammer, it does not count as forfeiting the hammer; The hammer must be returned to that player after the test is complete.
+If the Hammer Test is performed during another player's turn and that player gives up the hammer, it does not count as forfeiting the hammer; The hammer must be returned to that player after the test is complete.
 
 
 ### Demotions
 
 
-If a Lord drops their hammer during the Flip phase they are instantly demoted to Lad. Before ending their turn they must drive in a new starting nail to the outer ring. 
+If a Lord drops their hammer during the Flip phase they are instantly demoted to Lad. Before ending their turn they must drive a new starting nail into the outer ring. 
 
 
 
