@@ -45,14 +45,18 @@ The player then attempts to catch them hammer after it flips at least once in th
 The number of vertical flips is the number of strikes the player may make in the Strike phase.
 
 
-The player may not adjust their grip on the hammer. 
+The player may not adjust their grip on the hammer.
 The way that player catches the hammer is how they must perform their strikes.
+If they adjust the grip on their hammer they must drink and immediately end their turn.
+If they attempt to perform a strike (hammer makes contact with the stump or a nail) after regripping they also lose their next turn.
 
 
 Upon catching the hammer, the player must immediately move to the Strike phase without hesitation.
 
 
 If a player fails to catch the hammer, they must drink and immediately end their turn, passing the hammer to the next play in turn order.
+
+Before flipping the hammer, if the active player is a Lad, they may call "Uprising" before flipping the hammer. If they do so, their turn counts as an Uprising (See Uprising section), and Uprising rules apply for the remainder of that turn.
 
 
 #### Strike
@@ -116,6 +120,18 @@ If the Hammer Test is performed during another player's turn and that player giv
 
 If a Lord drops their hammer during the Flip phase they are instantly demoted to Lad. Before ending their turn they must drive a new starting nail into the outer ring. 
 
+
+### Uprising
+
+At the start of each game, there is an Uprising counter that begins as 0. A die or some other object may be used to represent this or it can be kept track of mentally by all players as a group.
+
+If the active player is a Lad, they may call "Uprising" before flipping their hammer. If they do, then the turn officially counts as an Uprising. The player must perform a double hammer flip followed by one strike without hesitation (note that they do not get two strikes like they normally would). If they hit their nail with that strike, then the Uprising was successful, and the Uprising counter is incremented by 1. If they drop the hammer, regrip the hammer, or miss their nail the Uprising counter is reset to 0, in which case they must drink and end their turn immediately, passing the hammer to the next player in turn order.
+
+The active player forfeits the ability to give out drinks during an Uprising. However, they still must drink if they miss, regrip, drop the hammer, or are penalized in some other way.
+
+If the Uprising counter reaches 3 all Lords must immediately drink. If the Uprising counter reaches 7 a Coup occurs all Lords are immediately demoted to Lads and must drive a new starting nail into the outer ring of the stump. When a Coup occurs the Uprising counter is reset to 0.
+
+If a player would normally become a Lord upon performing their Uprising strike, they do not become a Lord until any Uprising effects for this turn resolve. I.e., If the Uprising counter is at 6 and a player performs a successful Uprising but in the process also completely hammers their starting nail into the stump, all existing Lords would be demoted and then the active player would be promoted to Lord. A player may not give out drinks during an Uprising even if they become Lord.
 
 
 
