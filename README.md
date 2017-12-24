@@ -140,4 +140,4 @@ If a Lad strikes the Uprising nail without performing the mandatory double flip,
 
 If a Lad successfully strikes the Uprising nail, they may give out a drink to a Lord during the Drink phase. This is the only situation in which a Lad can give a Lord a drink without penalty.
 
-If a Lord strikes an Uprising nail they are instantly demoted to Lad unless that strike finishes the nail. In that case the Uprising is complete and all other Lords are demoted (they remain a Lord).
+If a Lord strikes an Uprising nail they are instantly demoted to Lad.
