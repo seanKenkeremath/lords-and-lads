@@ -24,9 +24,9 @@ Turns will proceed clockwise from that player.
 
 ## The Game
 ### Overview
-All players begin the game as Lads. The max number of possible Lords is equal to the number of center nails.
+All players begin the game as Lads. The max number of possible Lords is equal to the number of center nails. This is referred to as the House of Lords. When a player ascends to the rank of Lord they effectively occupy a seat in thes House of Lords. If all seats in the House of Lords are taken then Lads are unable to ascend to the rank of Lord until a Lord is demoted or an Uprising takes place.
 
-A Lad ascends to the rank of Lord when his or her starting nail has been hammered completely into the stump as long as the current number of Lords is less than the max. If a Lad has finished their starting nail but they cannot become a Lord, their only option is to hit the Uprising nail (see Uprising section). At any point during a Lad's turn, if their starting nail is completely hammered in and there are less than the max number of Lords, they immediately ascend to the rank of Lord.
+A Lad ascends to the rank of Lord when his or her starting nail has been hammered completely into the stump as long as there is a seat open in the House of Lords. If a Lad has finished their starting nail but they cannot become a Lord, their only option is to hit the Uprising nail (see Uprising section). At any point during a Lad's turn, if their starting nail is completely hammered in and there is an open seat in the House of Lords, they immediately ascend to the rank of Lord.
 
 As a Lad you are only able to strike your starting nail. As a Lord you are allowed to strike the center nails.
 
@@ -67,16 +67,15 @@ Upon catching the hammer, the player must immediately perform a strike.
 The player may not hesitate or aim, though they are allowed to bring them hammer up and down again after catching.
 
 
-If that player is a Lad, they must strike their starting nail.
-If they are a Lord, they must strike one of the center nails.
+If that player is a Lad, they must strike their starting nail. If they are a Lord, they must strike one of the center nails.
 
 
-If a Lad hammers their starting nail completely into the stump and there are less than the max amount of Lords, they instantly ascend to the rank of Lord. 
-This can happen between strikes.
-I.e. if a Lad has two strikes because he or she performed a double hammer flip, and they drive their starting nail completely into the stump on the first hit, the next hit must be performed on a center nail as Lord.
+If a Lad finishes their starting nail and there is an open seat in the House of Lords, they instantly ascend to the rank of Lord. This can happen between strikes. I.e. if a Lad has two strikes because he or she performed a double hammer flip, and they drive their starting nail completely into the stump on the first hit, the next hit must be performed on a center nail as Lord.
+
+If a Lad finishes their starting nail and the House of Lords is full, they are still considered Lads. However, if at any point during a player's turn their starting nail is finished and a seat is open in the House of Lords, they immediately ascend to the rank of Lord. This ascension counts as a strike for the purpose of giving a drink (see Drink), but a player may still perform their regular strike if they have not already. For example, a player who has finished their starting nail may ascend to Lord and then also perform a strike as Lord.
 
 
-A nail is considered completely hammered into the stump if all plays agree or if the Hammer Test decides it is (see Hammer Test). Any player may challenge a nail and perform a Hammer Test. This effectively pauses the game. Giving away the hammer for someone to perform the Hammer Test does not end your turn, and that player must return the hammer to you upon completing the Hammer Test, resuming the game.
+A nail is considered finished if all plays agree it is completely hammered into the stump or if the Hammer Test decides it is (see Hammer Test). Any player may challenge a nail and perform a Hammer Test. This effectively pauses the game. Giving away the hammer for someone to perform the Hammer Test does not end your turn, and that player must return the hammer to you upon completing the Hammer Test, resuming the game.
 
 
 Each successful strike on a nail grants the player one drink to give out during the Drink phase. 
@@ -95,9 +94,9 @@ During the drink phase the player may give out drinks for each successful strike
 A Lad cannot make a Lord drink unless the current turn is an Uprising and they have successfully hit the Uprising nail. If a Lad attempts to give a Lord a drink they must take the drink themselves and they forfeit the ability to give out a drink that turn.
 
 
-The final strike of a starting nail is considered a strike made as a Lord as long as there are less than the max amount of Lords since that player becomes a Lord simultaneously to striking the nail.
+The final strike of a starting nail is considered a strike made as a Lord as long as there are is an open seat in the House of Lords since that player becomes a Lord simultaneously to striking the nail. If that strike finishes their starting nail but the House of Lords is full, a drink may still be given out, but it may only be given out as a Lad since that player has not yet ascended.
 
-If a player's starting nail was already hammered in when the turn began and they ascended to the rank of Lord this turn through Uprising or another Lord being demoted they may give out a drink as if they had finished their starting nail that turn.
+If a player's starting nail was already hammered in when the turn began and they ascended to the rank of Lord this turn through Uprising or another Lord being demoted, then they may give out a drink as if they had finished their starting nail that turn. In other words, they may give out a drink as a Lord.
 
 
 The final strike of the game (the last center nail) is considered a strike made as a rank even higher than Lord. In this case all other players must drink.
@@ -133,7 +132,7 @@ If there is at least one Lord and no active Uprising nail currently exists, Lads
 
 As long as there is an active Uprising nail and the current player is a Lad, they may call "Uprising" before flipping their hammer. If they do, then the turn officially counts as an Uprising and Uprising rules apply for the rest of the turn. 
 
-During an Uprising, the active player must perform a double hammer flip followed by one strike on the Uprising nail without hesitation (note that they do not get two strikes like they normally would). If this strikes completely hammers the Uprising nail into the stump, all Lords are immediately demoted to Lad and must begin a new starting nail. If the active player already has their starting nail hammered in (if the amount of Lords was previously the maximum) they then instantly ascend to Lord. The Uprising nail is no now longer active and a new one may be started by future Lads.
+During an Uprising, the active player must perform a double hammer flip followed by one strike on the Uprising nail without hesitation (note that they do not get two strikes like they normally would). If this strikes finishes the Uprising nail, all Lords are immediately demoted to Lad and must begin a new starting nail. If the active player has already finished their starting nail (i.e., the House of Lords was previously full), they instantly ascend to Lord. The Uprising nail is now no longer active and a new one may be started by future Lads.
 
 A Lad may call uprising and then perform a triple or even higher order flip in which case they may take multiple strikes to the Uprising nail or any other valid targets. However, the first strike must hit the center nail. The amount of strikes a player gets in this case is n - 1 (including the initial Uprising strike) where n is the number of flips.
 
