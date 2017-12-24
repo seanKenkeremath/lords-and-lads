@@ -3,11 +3,11 @@ Rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 
 # Rules
 ## You will need:
-* At least 2 players
+* At least 3 players
 * 1 stump
 * 1 hammer
 * 1 nail for each player. These nails must all be the same type
-* Ceiling(n/2 - 1) nails to be placed in the center of the stump when n is the number of players (7 players = 3 nails, 8 players = 4 nails, etc). These must also be the same type
+* Ceiling(n/2 - 1) nails to be placed in the center of the stump when n is the number of players (6 players = 2 nails, 7 players = 3 nails,, etc). These must also be the same type.
 
 ## Setting up
 ### Nails
