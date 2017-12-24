@@ -134,7 +134,7 @@ As long as there is an active Uprising nail and the current player is a Lad, the
 
 During an Uprising, the active player must perform a double hammer flip followed by one strike on the Uprising nail without hesitation (note that they do not get two strikes like they normally would). If this strikes finishes the Uprising nail, all Lords are immediately demoted to Lads and must begin new starting nails. If the active player has already finished their starting nail (i.e., the House of Lords was previously full), they instantly ascend to Lord. The Uprising nail is now no longer active and a new one may be started by future Lads.
 
-A Lad may call uprising and then perform a triple or even higher order flip in which case they may take multiple strikes to the Uprising nail or any other valid targets. However, the first strike must hit the center nail. The amount of strikes a player gets in this case is n - 1 (including the initial Uprising strike) where n is the number of flips.
+A Lad may call "Uprising" and then perform a triple or even higher order flip. In this case they may make multiple strikes to the Uprising nail or any other valid nails. However, the first strike must hit the Uprising nail. The amount of strikes a player gets in this case is n - 1 (including the initial Uprising strike) where n is the number of flips. For instance, a player who still has their starting nail may call "Uprising", perform a triple flip, strike the Uprising nail, and then strike their starting nail. If the Uprising nail is finished on the first strike and it causes them to ascend to the rank of Lord, subsequent strikes may be made to center nails.
 
 If a Lad hits the Uprising nail without performing the mandatory double flip, the Uprising nail is reset.
 
