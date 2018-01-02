@@ -1,18 +1,18 @@
 # lords-ands-lads
-Rulebook for the Lords &amp; Lads stump variant
+Rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 
 # Rules
 ## You will need:
+* At least 3 players
 * 1 stump
 * 1 hammer
 * 1 nail for each player. These nails must all be the same type
-* 3 nails to be placed in the center of the stump. These nails do not necessarily have to be the same
-* Any number of players
+* Ceiling(n/2 - 1) nails to be placed in the center of the stump when n is the number of players (6 players = 2 nails, 7 players = 3 nails,, etc). These must also be the same type.
 
 ## Setting up
 ### Nails
 Begin by hammering 1 nail for each player into the stump. All nails should be placed along the same ring of the stump. 
-All nails should be hammered to an equal, agreed upon depth. Hammer the 3 center nails into the center of the stump to an agreed upon depth. 
+All nails should be hammered to an equal, agreed upon depth. Hammer the center nails into the center of the stump to the same depth. 
 All players must stand around the stump by their nail.
 
 
@@ -24,10 +24,13 @@ Turns will proceed clockwise from that player.
 
 ## The Game
 ### Overview
-All players begin the game as Lads. 
-A Lad ascends to the rank of Lord when his or her starting nail has been hammered completely into the stump.
-As a Lad you are only able to strike your starting nail. As a Lord you are allowed to strike the 3 center nails.
-The game ends when the 3 center nails have been hammered completely into the stump. The winner is the person who dealt the final strike to the last nail.
+All players begin the game as Lads. The max number of possible Lords is equal to the number of center nails. This is referred to as the House of Lords. When a player ascends to the rank of Lord they effectively occupy a seat in the House of Lords. If all seats in the House of Lords are taken then Lads are unable to ascend to the rank of Lord until a Lord is demoted or an Uprising takes place.
+
+A Lad ascends to the rank of Lord when his or her starting nail has been hammered completely into the stump as long as there is a seat open in the House of Lords. If a Lad has finished their starting nail but they cannot become a Lord, their only option is to hit the Uprising nail (see Uprising section). At any point during a Lad's turn, if their starting nail is completely hammered in and there is an open seat in the House of Lords, they immediately ascend to the rank of Lord.
+
+As a Lad you are only able to strike your starting nail. As a Lord you are allowed to strike the center nails.
+
+The game ends when all the center nails have been hammered completely into the stump. The winner is the person who dealt the final strike to the last center nail.
 
 
 ### Taking a turn
@@ -64,16 +67,15 @@ Upon catching the hammer, the player must immediately perform a strike.
 The player may not hesitate or aim, though they are allowed to bring them hammer up and down again after catching.
 
 
-If that player is a Lad, they must strike their starting nail.
-If they are a Lord, they must strike one of the center nails.
+If that player is a Lad, they must strike their starting nail. If they are a Lord, they must strike one of the center nails.
 
 
-If a Lad hammers their starting nail completely into the stump, they instantly ascend to the rank of Lord. 
-This can happen between strikes.
-I.e. if a Lad has two strikes because he or she performed a double hammer flip, and they drive their starting nail completely into the stump on the first hit, the next hit must be performed on a center nail as Lord.
+If a Lad finishes their starting nail and there is an open seat in the House of Lords, they instantly ascend to the rank of Lord. This can happen between strikes. I.e. if a Lad has two strikes because he or she performed a double hammer flip, and they drive their starting nail completely into the stump on the first hit, the next hit must be performed on a center nail as Lord.
+
+If a Lad finishes their starting nail and the House of Lords is full, they are still considered Lads. However, if at any point during a player's turn their starting nail is finished and a seat is open in the House of Lords, they immediately ascend to the rank of Lord. This ascension counts as a strike for the purpose of giving a drink (see Drink), but a player may still perform their regular strike if they have not already. For example, a player who has finished their starting nail may ascend to Lord and then also perform a strike as Lord.
 
 
-A nail is considered completely hammered into the stump if all plays agree or if the Hammer Test decides it is (see Hammer Test). Any player may challenge a nail and perform a Hammer Test. This effectively pauses the game. Giving away the hammer for someone to perform the Hammer Test does not end your turn, and that player must return the hammer to you upon completing the Hammer Test, resuming the game.
+A nail is considered finished if all plays agree it is completely hammered into the stump or if the Hammer Test decides it is (see Hammer Test). Any player may challenge a nail and perform a Hammer Test. This effectively pauses the game. Giving away the hammer for someone to perform the Hammer Test does not end your turn, and that player must return the hammer to you upon completing the Hammer Test, resuming the game.
 
 
 Each successful strike on a nail grants the player one drink to give out during the Drink phase. 
@@ -87,11 +89,14 @@ If a player hits the wrong nail it counts as a miss. If doing so results in the 
 A "Drink" is a consistent unit which must be decided upon before the game begins.
 
 
-During the drink phase the player may give out drinks for each successful strike they made during the Strike phase. 
-For each strike made as a Lad, that player may give a drink out to another Lad. For each strike made as a Lord, that player may give a drink out to another Lord or make all remaining Lads drink at once. A Lad cannot make a Lord drink.
+During the drink phase the player may give out drinks for each successful strike they made during the Strike phase unless the current turn is an Uprising. For each strike made as a Lad, that player may give a drink out to another Lad. For each strike made as a Lord, that player may give a drink out to another Lord or make all remaining Lads drink at once. 
+
+A Lad cannot make a Lord drink unless the current turn is an Uprising and they have successfully hit the Uprising nail. If a Lad attempts to give a Lord a drink they must take the drink themselves and they forfeit the ability to give out a drink that turn.
 
 
-The final strike of a starting nail is considered a strike made as a Lord, as that player becomes a Lord simultaneously to striking the nail.
+The final strike of a starting nail is considered a strike made as a Lord as long as there are is an open seat in the House of Lords since that player becomes a Lord simultaneously to striking the nail. If that strike finishes their starting nail but the House of Lords is full, a drink may still be given out, but it may only be given out as a Lad since that player has not yet ascended.
+
+If a player's starting nail was already hammered in when the turn began and they ascended to the rank of Lord this turn through Uprising or another Lord being demoted, then they may give out a drink as if they had finished their starting nail that turn. In other words, they may give out a drink as a Lord.
 
 
 The final strike of the game (the last center nail) is considered a strike made as a rank even higher than Lord. In this case all other players must drink.
@@ -103,7 +108,7 @@ The player then must drink for each missed strike he or she performed during the
 Drinks may only be given out as long as the current player holds the hammer. If the player gives away the hammer without giving out drinks, their turn ends immediately and they forfeit giving out those drinks. However, they still must drink for each missed strike they made. Giving away the hammer for a Hammer Test does not count as forfeiting the hammer, and the player performing the Hammer Test must return the hammer when they are finished.
 
 
-At the end of the Drink phase, the game ends and the current player wins if all 3 center nails are hammered completely into the stump. Otherwise the player passes the hammer to the next player in turn order and they begin their turn on the Flip phase.
+At the end of the Drink phase, the game ends and the current player wins if all center nails are hammered completely into the stump. Otherwise the player passes the hammer to the next player in turn order and they begin their turn on the Flip phase.
 
 
 ### Hammer Test
@@ -123,15 +128,16 @@ If a Lord drops their hammer during the Flip phase they are instantly demoted to
 
 ### Uprising
 
-At the start of each game, there is an Uprising counter that begins as 0. A die or some other object may be used to represent this or it can be kept track of mentally by all players as a group.
+If there is at least one Lord and no active Uprising nail currently exists, Lads may call "Uprising" at the start of their turn before flipping the hammer. If they do, they place a single Uprising nail somewhere in the stump and hammer it to the same starting depth used for other nails. Uprising rules apply for the remainder of that turn.
 
-If the active player is a Lad, they may call "Uprising" before flipping their hammer. If they do, then the turn officially counts as an Uprising. The player must perform a double hammer flip followed by one strike without hesitation (note that they do not get two strikes like they normally would). If they hit their nail with that strike, then the Uprising was successful, and the Uprising counter is incremented by 1. If they drop the hammer, regrip the hammer, or miss their nail the Uprising counter is reset to 0, in which case they must drink and end their turn immediately, passing the hammer to the next player in turn order.
+As long as there is an active Uprising nail and the current player is a Lad, they may call "Uprising" before flipping the hammer. If they do, then the turn officially counts as an Uprising and Uprising rules apply for the remainder of the turn. 
 
-The active player forfeits the ability to give out drinks during an Uprising. However, they still must drink if they miss, regrip, drop the hammer, or are penalized in some other way.
+During an Uprising, the active player must perform a double hammer flip followed by one strike on the Uprising nail without hesitation (note that they do not get two strikes as they normally would). If this strikes finishes the Uprising nail, all Lords are immediately demoted to Lads and must begin new starting nails. If the active player has already finished their starting nail (i.e., the House of Lords was previously full), they instantly ascend to Lord. The Uprising nail is now no longer active and a new one may be started by future Lads.
 
-If the Uprising counter reaches 3 all Lords must immediately drink. If the Uprising counter reaches 7 a Coup occurs all Lords are immediately demoted to Lads and must drive a new starting nail into the outer ring of the stump. When a Coup occurs the Uprising counter is reset to 0.
+A Lad may call "Uprising" and then perform a triple or even higher order flip. In this case they may make multiple strikes to the Uprising nail or any other valid nails. However, the first strike must hit the Uprising nail. The amount of strikes a player gets in this case is n - 1 (including the initial Uprising strike) where n is the number of flips. For instance, a player who still has their starting nail may call "Uprising", perform a triple flip, strike the Uprising nail, and then strike their starting nail. If the Uprising nail is finished on the first strike and it causes them to ascend to the rank of Lord, subsequent strikes may be made to center nails.
 
-If a player would normally become a Lord upon performing their Uprising strike, they do not become a Lord until any Uprising effects for this turn resolve. I.e., If the Uprising counter is at 6 and a player performs a successful Uprising but in the process also completely hammers their starting nail into the stump, all existing Lords would be demoted and then the active player would be promoted to Lord. A player may not give out drinks during an Uprising even if they become Lord.
+If a Lad strikes the Uprising nail without performing the mandatory double flip, the Uprising nail is reset.
 
+If a Lad successfully strikes the Uprising nail, they may give out a drink to a Lord during the Drink phase. This is the only situation in which a Lad can give a Lord a drink without penalty.
 
-
+If a Lord strikes an Uprising nail they are instantly demoted to Lad.
