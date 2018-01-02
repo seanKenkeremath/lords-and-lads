@@ -24,7 +24,7 @@ Turns will proceed clockwise from that player.
 
 ## The Game
 ### Overview
-All players begin the game as Lads. The max number of possible Lords is equal to the number of center nails. This is referred to as the House of Lords. When a player ascends to the rank of Lord they effectively occupy a seat in thes House of Lords. If all seats in the House of Lords are taken then Lads are unable to ascend to the rank of Lord until a Lord is demoted or an Uprising takes place.
+All players begin the game as Lads. The max number of possible Lords is equal to the number of center nails. This is referred to as the House of Lords. When a player ascends to the rank of Lord they effectively occupy a seat in the House of Lords. If all seats in the House of Lords are taken then Lads are unable to ascend to the rank of Lord until a Lord is demoted or an Uprising takes place.
 
 A Lad ascends to the rank of Lord when his or her starting nail has been hammered completely into the stump as long as there is a seat open in the House of Lords. If a Lad has finished their starting nail but they cannot become a Lord, their only option is to hit the Uprising nail (see Uprising section). At any point during a Lad's turn, if their starting nail is completely hammered in and there is an open seat in the House of Lords, they immediately ascend to the rank of Lord.
 
@@ -128,11 +128,11 @@ If a Lord drops their hammer during the Flip phase they are instantly demoted to
 
 ### Uprising
 
-If there is at least one Lord and no active Uprising nail currently exists, Lads may call "Uprising" at the start of their turn before flipping the hammer. If they do, they place a single Uprising nail somewhere in the stump and hammer it to the same starting depth as all other nails. Uprising rules now apply to the duration of this turn.
+If there is at least one Lord and no active Uprising nail currently exists, Lads may call "Uprising" at the start of their turn before flipping the hammer. If they do, they place a single Uprising nail somewhere in the stump and hammer it to the same starting depth used for other nails. Uprising rules apply for the remainder of that turn.
 
-As long as there is an active Uprising nail and the current player is a Lad, they may call "Uprising" before flipping their hammer. If they do, then the turn officially counts as an Uprising and Uprising rules apply for the rest of the turn. 
+As long as there is an active Uprising nail and the current player is a Lad, they may call "Uprising" before flipping the hammer. If they do, then the turn officially counts as an Uprising and Uprising rules apply for the remainder of the turn. 
 
-During an Uprising, the active player must perform a double hammer flip followed by one strike on the Uprising nail without hesitation (note that they do not get two strikes like they normally would). If this strikes finishes the Uprising nail, all Lords are immediately demoted to Lads and must begin new starting nails. If the active player has already finished their starting nail (i.e., the House of Lords was previously full), they instantly ascend to Lord. The Uprising nail is now no longer active and a new one may be started by future Lads.
+During an Uprising, the active player must perform a double hammer flip followed by one strike on the Uprising nail without hesitation (note that they do not get two strikes as they normally would). If this strikes finishes the Uprising nail, all Lords are immediately demoted to Lads and must begin new starting nails. If the active player has already finished their starting nail (i.e., the House of Lords was previously full), they instantly ascend to Lord. The Uprising nail is now no longer active and a new one may be started by future Lads.
 
 A Lad may call "Uprising" and then perform a triple or even higher order flip. In this case they may make multiple strikes to the Uprising nail or any other valid nails. However, the first strike must hit the Uprising nail. The amount of strikes a player gets in this case is n - 1 (including the initial Uprising strike) where n is the number of flips. For instance, a player who still has their starting nail may call "Uprising", perform a triple flip, strike the Uprising nail, and then strike their starting nail. If the Uprising nail is finished on the first strike and it causes them to ascend to the rank of Lord, subsequent strikes may be made to center nails.
 
