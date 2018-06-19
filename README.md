@@ -128,7 +128,7 @@ If a Lord drops their hammer during the Flip phase they are instantly demoted to
 
 ### Uprising
 
-If there is at least one Lord and no active Uprising nail currently exists, Lads may call "Uprising" at the start of their turn before flipping the hammer. If they do, they place a single Uprising nail somewhere in the stump and hammer it to the same starting depth used for other nails. Uprising rules apply for the remainder of that turn.
+If there is at least one Lord and no active Uprising nail currently exists, Lads may call "Uprising" at the start of their turn before flipping the hammer. If they do, they place a single Uprising nail somewhere in the stump and hammer it to the same starting depth used for other nails. The Uprising nail must be placed at least 2 inches away from any other nails if possible. Otherwise, it should be placed in whatever area maximizes distance from nearby nails. Uprising rules apply for the remainder of that turn.
 
 As long as there is an active Uprising nail and the current player is a Lad, they may call "Uprising" before flipping the hammer. If they do, then the turn officially counts as an Uprising and Uprising rules apply for the remainder of the turn. 
 
