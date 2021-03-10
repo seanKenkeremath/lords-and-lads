@@ -142,7 +142,7 @@ A Lord may also call "Uprising" at the beginning of their turn before flipping t
 
 #### Rallying the Lads
 
-If there is an active Uprising nail, a Lad may choose to call "Rally". If they do, their turn ends and they forfeit the ability to perform flips on that turn. By callling "Rally", that Lad has effectively contributed 1 flip to the next Lad who calls "Uprising" and performs an Uprising flip. For instance, if a Lad rallies and the next Lad in turn order calls "Uprising", that Lad can now perform a single flip and strike the nail (where they would normally need at least 2 flips). Factoring in Rallies, the total number of strikes allowed to a Lad during an Uprising turn becomes `f - 1 + r` where `f` is the number of flips
+If there is an active Uprising nail, a Lad may choose to call "Rally". If they do, their turn ends and they forfeit the ability to perform flips on that turn. By calling "Rally", that Lad has effectively contributed 1 flip to the next Lad who calls "Uprising" and performs an Uprising flip. For instance, if a Lad rallies and the next Lad in turn order calls "Uprising", that Lad can now perform a single flip and strike the nail (where they would normally need at least 2 flips). Factoring in Rallies, the total number of strikes allowed to a Lad during an Uprising turn becomes `f - 1 + r` where `f` is the number of flips and `r` is the number of Rallies.
 
 Rallies can be stacked indefinitely, but as soon as a Lad performs a normal Uprising flip, they are all spent and the Rally count goes back to 0. 
 
