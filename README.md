@@ -151,9 +151,9 @@ A Lord cannot use Rallies even if they are performing an Uprising flip to try an
 
 ### Resetting Nails
 
-A Lad may skip their turn to reset their nail to its starting height and angle. They may use their existing nail or remove their existing nail and put a new one in
+A Lad may skip their turn to reset their nail to its starting depth and angle. They may also choose to put a new Lad nail in to the starting depth and remove their existing nail
 
-A Lord may skip their turn to reset a single center nail to its starting height and angle. They may use their existing nail or remove their existing nail and put a new one in. A Lord can do this only once during each of their reigns. In other words, if this ability is used by a Lord, that Lord may not use the ability again unless they are demoted and become a Lord again (thus beginning a new reign).
+A Lord may skip their turn to reset a single center nail to its starting depth and angle. They may also choose to put a new center nail in to the starting depth and remove the center nail in question. A Lord can do this only once during each of their reigns. In other words, if this ability is used by a Lord, that Lord may not use the ability again unless they are demoted and become a Lord again
 
 ### Penalties
 
