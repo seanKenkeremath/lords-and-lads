@@ -149,6 +149,12 @@ Rallies can be stacked indefinitely, but as soon as a Lad performs a normal Upri
 A Lord cannot use Rallies even if they are performing an Uprising flip to try and finish the nail. Doing so does not reset the Rally count.
 
 
+### Resetting Nails
+
+A Lad may skip their turn to reset their nail to its starting height and angle. They may use their existing nail or remove their existing nail and put a new one in
+
+A Lord may skip their turn to reset a single center nail to its starting height and angle. They may use their existing nail or remove their existing nail and put a new one in. A Lord can do this only once during each of their reigns. In other words, if this ability is used by a Lord, that Lord may not use the ability again unless they are demoted and become a Lord again (thus beginning a new reign).
+
 ### Penalties
 
 If a player strikes an illegal nail, a penalty will apply. There are several scenarios with different punishments listed in the following section. Penalties may be incurred if the illegal nail is touched at all by the hammer during the strike. This includes scenarios where the active player strikes both their own nail and the illegal nail.
