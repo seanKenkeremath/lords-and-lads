@@ -151,7 +151,7 @@ A Lord cannot use Rallies even if they are performing an Uprising flip to try an
 
 ### Resetting Nails
 
-A Lad may skip their turn to reset their nail. A reset consists of either using the hammer to straighten a bent nail or removing their existing nail altogether and putting in a new Lad nail at the starting depth. If replacing the nail, the existing nail can be hammered into the stump if it is too difficult to remove.
+A Lad may skip their turn to reset their nail. A reset consists of either using the hammer to straighten the nail or removing the nail altogether and putting in a new nail at the starting depth. If replacing the nail, the existing nail can be hammered into the stump if it is too difficult to remove.
 
 A Lord may skip their turn to initiate a majority vote among current Lords to reset any single center nail. If the vote passes, the nail can be reset by that Lord before passing their turn. If the vote fails, nothing happens and the current Lord's turn is over. Resetting a center nail is done the same way as resetting a Lad nail. The Lord who initiated the vote is the one who must reset the nail, and they decide how the nail is to be reset. The nail selected for the vote is the only one that can be reset during that turn.
 
