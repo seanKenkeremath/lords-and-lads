@@ -1,5 +1,8 @@
-# lords-ands-lads
-Rulebook for the Lords &amp; Lads stump/hammerschlagen variant
+# Lords & Lads
+Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
+
+![Cover Art](/images/cover.png)
+
 
 # Rules
 ## You will need:
