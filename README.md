@@ -92,7 +92,7 @@ If a player hits the wrong nail it counts as a miss. If doing so results in the 
 A "Drink" is a consistent unit which must be decided upon before the game begins.
 
 
-During the drink phase the player may give out drinks for each successful strike they made during the Strike phase unless the current turn is an Uprising. For each strike made as a Lad, that player may give a drink out to another Lad. For each strike made as a Lord, that player may give a drink out to another Lord or make all remaining Lads drink at once. 
+During the drink phase the player may give out drinks for each successful strike they made during the Strike phase unless the current turn is an Uprising. For each strike made as a Lad, that player may give a drink out to another Lad. For each strike made as a Lord, that player may either give a drink out to another Lord, make a single Lad drink 3, or make all remaining Lads drink at once. 
 
 A Lad cannot make a Lord drink unless the current turn is an Uprising and they have successfully hit the Uprising nail. If a Lad attempts to give a Lord a drink they must take the drink themselves and they forfeit the ability to give out a drink that turn.
 
