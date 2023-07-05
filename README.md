@@ -60,7 +60,7 @@ If they attempt to perform a strike (hammer makes contact with the stump or a na
 Upon catching the hammer, the player must immediately move to the Strike phase without hesitation.
 
 
-If a player fails to catch the hammer, they must drink and immediately end their turn, passing the hammer to the next play in turn order.
+If a player fails to catch the hammer, they must drink twice and immediately end their turn, passing the hammer to the next play in turn order.
 
 Before flipping the hammer, if the active player is a Lad, they may call "Uprising" before flipping the hammer. If they do so, their turn counts as an Uprising (See Uprising section), and Uprising rules apply for the remainder of that turn.
 
