@@ -39,7 +39,7 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 
 ## II - Setting Up
 ### A - Nails
-Bin by hammering 1 nail for each player into the stump. All nails should be placed along the same ring of the stump. 
+Begin by hammering 1 nail for each player into the stump. All nails should be placed along the same ring of the stump. 
 l nails should be hammered to an equal, agreed upon depth. Hammer the center nails into the center of the stump to the same depth. 
 All players must stand around the stump by their nail.
 
