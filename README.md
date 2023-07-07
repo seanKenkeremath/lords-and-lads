@@ -8,25 +8,24 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 * II - [Setting Up](ii---setting-up)
    * A - [Nails](a---nails)
    * B - [Establishing Turn Order](b---establishing-turn-order)
-* III - [The Game](iii---the-game)
-   * A - [Overview](a---overview)
-   * B - [Taking a Turn](b---taking-a-turn)
-      * i - [Flip](i---flip)
-      * ii - [Strike](ii---strike)
-      * iii - [Drink](iii---drink)
-   * C - [Hammer Test](c---hammer-test)
-   * D - [Demotion](d---demotion)
-   * E - [Uprising](e---uprising)
-      * i - [Rallying the Lads](i---rallying-the-lads)
-   * F - [Resetting Nails](f---resetting-nails)
-      * i - [Resetting a Lad's nail](i---resetting-a-lad's-nail)
-      * ii - [Resetting a Lord's nail](ii---resetting-a-lord's-nail)
-   * G - [Penalties](g-penalties)
-      * i - [A Lad strikes another Lad's nail](i---a-lad-strikes-another-lad's-nail)
-      * ii - [A Lad strikes a center nail](ii---a-lad-strikes-a-center-nail)
-      * iii - [A Lord strikes a Lad's nail](iii---a-lord-strikes-a-lad's-nail)
-      * iv - [A Lord illegally strikes an Uprising nail](iv---a-lord-illegally-strikes-an-uprising-nail)
-      * v - [A Lad illegally strikes an Uprising nail](v---a-lad-illegally-strikes-an-uprising-nail)
+* III - [Overview](iii---overview)
+* IV - [Taking a Turn](iv---taking-a-turn)
+   * A - [Flip](a---flip)
+   * B - [Strike](b---strike)
+   * C - [Drink](c---drink)
+* V - [Hammer Test](v---hammer-test)
+* VI - [Demotion](vi---demotion)
+* VII - [Uprising](vii---uprising)
+   * A - [Rallying the Lads](a---rallying-the-lads)
+* VIII - [Resetting Nails](viii---resetting-nails)
+   * A - [Resetting a Lad's nail](a---resetting-a-lad's-nail)
+   * B - [Resetting a Lord's nail](b---resetting-a-lord's-nail)
+* IX - [Penalties](g-penalties)
+   * A - [A Lad strikes another Lad's nail](a---a-lad-strikes-another-lad's-nail)
+   * B - [A Lad strikes a center nail](b---a-lad-strikes-a-center-nail)
+   * C - [A Lord strikes a Lad's nail](c---a-lord-strikes-a-lad's-nail)
+   * D - [A Lord illegally strikes an Uprising nail](d---a-lord-illegally-strikes-an-uprising-nail)
+   * E - [A Lad illegally strikes an Uprising nail](e---a-lad-illegally-strikes-an-uprising-nail)
 
 # Rules
 
@@ -49,9 +48,7 @@ If this is the first game of Lords &amp; Lads, players choose and agree upon a w
 If this is not the first game of Lords &amp; Lads, the player who won the last game gets the first turn.
 Turns will proceed clockwise from that player.
 
-
-## III - The Game
-### A - Overview
+## III - Overview
 All players begin the game as Lads. The max number of possible Lords is equal to the number of center nails. This is referred to as the House of Lords. When a player ascends to the rank of Lord they effectively occupy a seat in the House of Lords. If all seats in the House of Lords are taken then Lads are unable to ascend to the rank of Lord until a Lord is demoted or an Uprising takes place.
 
 A Lad ascends to the rank of Lord when his or her starting nail has been hammered completely into the stump as long as there is a seat open in the House of Lords. If a Lad has finished their starting nail but they cannot become a Lord, their only option is to hit the Uprising nail (see Uprising section). At any point during a Lad's turn, if their starting nail is completely hammered in and there is an open seat in the House of Lords, they immediately ascend to the rank of Lord.
@@ -61,14 +58,14 @@ As a Lad you are only able to strike your starting nail. As a Lord you are allow
 The game ends when all the center nails have been hammered completely into the stump. The winner is the person who dealt the final strike to the last center nail.
 
 
-### B - Taking a Turn
+## IV - Taking a Turn
 A turn consists of 3 phases:
 * Flip phase
 * Strike phase
 * Drink phase
 
 
-#### i - Flip
+### A - Flip
 During the flip phase, a player throws the hammer into the air so that it flips vertical (head over handle). 
 The player then attempts to catch them hammer after it flips at least once in the air.
 
@@ -90,7 +87,7 @@ If a player fails to catch the hammer, they must drink and immediately end their
 Before flipping the hammer, if the active player is a Lad, they may call "Uprising" before flipping the hammer. If they do so, their turn counts as an Uprising (See Uprising section), and Uprising rules apply for the remainder of that turn.
 
 
-#### ii - Strike
+### B - Strike
 Upon catching the hammer, the player must immediately perform a strike.
 The player may not hesitate or aim, though they are allowed to bring them hammer up and down again after catching.
 
@@ -113,7 +110,7 @@ Each miss is one drink the player must take themselves during the Drink phase.
 If a player hits the wrong nail it counts as a miss. If doing so results in the final center nail being hammered into the stump, A new center nail must be hammered into the center of the stump and the current player is removed from the game.
 
 
-#### iii - Drink
+### C - Drink
 A "Drink" is a consistent unit which must be decided upon before the game begins.
 
 
@@ -139,7 +136,7 @@ Drinks may only be given out as long as the current player holds the hammer. If 
 At the end of the Drink phase, the game ends and the current player wins if all center nails are hammered completely into the stump. Otherwise the player passes the hammer to the next player in turn order and they begin their turn on the Flip phase.
 
 
-### C - Hammer Test
+## V - Hammer Test
 
 
 A Hammer Test can be performed by any player to determine if a nail has been completely hammered into the stump. For a nail that has been hit in vertically, the hammer is turned sideways the head is run over the nail from all angles. The nail is considered completely hammered in if the hammer does not clink with the nail. For a nail hit in sideways the same rule applies except the hammer is run over the nail both ways lengthwise. If everyone agrees a nail is completely hammered in then the Hammer Test can be skipped. Any player may challenge another player's nail during their turn via the Hammer Test.
@@ -148,13 +145,13 @@ A Hammer Test can be performed by any player to determine if a nail has been com
 If the Hammer Test is performed during another player's turn and that player gives up the hammer, it does not count as forfeiting the hammer; The hammer must be returned to that player after the test is complete.
 
 
-### D - Demotions
+## VI - Demotions
 
 
 If a Lord drops their hammer during the Flip phase they are instantly demoted to Lad. Before ending their turn they must drive a new starting nail into the outer ring. 
 
 
-### E - Uprising
+## VII - Uprising
 
 If there is at least one Lord and no active Uprising nail currently exists, Lads may call "Uprising" at the start of their turn before flipping the hammer. If they do, they place a single Uprising nail somewhere in the stump and hammer it to the same starting depth used for other nails. The Uprising nail must be placed at least 2 inches away from any other nails if possible. Otherwise, it should be placed in whatever area maximizes distance from nearby nails. Uprising rules apply for the remainder of that turn.
 
@@ -168,7 +165,7 @@ If a Lad successfully strikes the Uprising nail, they may give out a drink to a 
 
 A Lord may also call "Uprising" at the beginning of their turn before flipping the hammer. If they do, the current turn counts as an Uprising and Uprising rules apply for the remainder of the turn. The Uprising flip and subsequent strikes must be performed exactly as they would for a Lad. If these strikes finish the Uprising nail the Uprising is considered complete and all other Lords are immediately demoted to Lads and must begin new starting nails. The active player retains their seat in the House of Lords. Drinks may be given out for each strike as they would for normal hits on a center nail as a Lord. If the strikes do not finish the Uprising nail, or strikes are made without successfully completing the Uprising flip, penalties are incurred as mentioned in the Penalties section.
 
-#### i - Rallying the Lads
+### A - Rallying the Lads
 
 If there is an active Uprising nail, a Lad may choose to call "Rally" at the beginning of their turn. If they do, their turn ends and they forfeit the ability to perform flips on that turn. By calling "Rally", that Lad has effectively contributed 1 flip to the next Lad who calls "Uprising" and performs an Uprising flip. For instance, if a Lad rallies and the next Lad in turn order calls "Uprising", that Lad can now perform a single flip and strike the nail (where they would normally need at least 2 flips). Using Rallies does not limit the number of flips that can be performed. Factoring in Rallies, the total number of strikes allowed to a Lad during an Uprising turn becomes `f - 1 + r` where `f` is the number of flips and `r` is the number of Rallies.
 
@@ -177,17 +174,17 @@ Rallies can be stacked indefinitely, but as soon as a Lad performs a normal Upri
 A Lord cannot use Rallies even if they are performing an Uprising flip to try and finish the nail. Doing so does not reset the Rally count.
 
 
-### F - Resetting Nails
+## VIII - Resetting Nails
 
-#### i - Resetting a Lad's nail
+### A - Resetting a Lad's nail
 
 A Lad may skip their turn to reset their nail. A reset consists of either using the hammer to straighten the nail or removing the nail altogether and putting in a new nail at the starting depth. If replacing the nail, the existing nail can be hammered into the stump if it is too difficult to remove.
 
-#### ii - Resetting a Lord's nail
+### B - Resetting a Lord's nail
 
 A Lord may skip their turn to initiate a majority vote among current Lords to reset any single center nail. If the vote passes, the nail can be reset by that Lord before passing their turn. If the vote fails, nothing happens and the current Lord's turn is over. Resetting a center nail is done the same way as resetting a Lad nail. The Lord who initiated the vote is the one who must reset the nail, and they decide how the nail is to be reset. The nail selected for the vote is the only one that can be reset during that turn.
 
-### G - Penalties
+## IX - Penalties
 
 If a player strikes an illegal nail, a penalty will apply. There are several scenarios with different punishments listed in the following section. Penalties may be incurred if the illegal nail is touched at all by the hammer during the strike. This includes scenarios where the active player strikes both their own nail and the illegal nail.
 
@@ -199,7 +196,7 @@ Note that all of these penalties occur during the offending (active) player's tu
 
 Certain penalties can potentially be coordinated by players to achieve a mutual benefit. This is fair game, but the verbal contract is in no way binding, and a player may choose to betray their co-conspirator at the last moment.
 
-#### i - A Lad strikes another Lad's nail
+### A - A Lad strikes another Lad's nail
 
 If a Lad strikes another Lad's nail, the Lad whose nail was struck chooses one of the following actions:
 
@@ -209,7 +206,7 @@ If a Lad strikes another Lad's nail, the Lad whose nail was struck chooses one o
 * Make the Lad who struck the nail drink 3
 * Get one free strike at that Lad's nail before play continues (at least one flip must still be performed)
 
-#### ii - A Lad strikes a center nail
+### B - A Lad strikes a center nail
 
 If a Lad strikes one of the center nails and there is at least one Lord, the next Lord in turn order may chooses one of the following actions:
 
@@ -222,7 +219,7 @@ If there are no active Lords, the Lad must reset their nail.
 
 If a Lad strikes the final center nail and finishes it, that player is removed for the remainder of the game and that center nail is reset. This happens instead of any other punishments for that strike.
 
-#### iii - A Lord strikes a Lad's nail
+### C - A Lord strikes a Lad's nail
 
 If a Lord strikes a Lad's nail, the Lad may choose one of the following actions:
 
@@ -230,11 +227,11 @@ If a Lord strikes a Lad's nail, the Lad may choose one of the following actions:
 * Get a free strike at the Uprising nail before play continues (the extra flip for striking the nail does not need to be performed)
 * The Lad may reset their nail
 
-#### iv - A Lord illegally strikes an Uprising nail
+### D - A Lord illegally strikes an Uprising nail
 
 As mentioned in the Uprising rules, a Lord may call "Uprising" at the start of their turn and perform an Uprising flip similar to how a Lad would (including the extra flip). If this does not result in the nail being finished, or the necessary number of flips are not performed, that Lord is instantly demoted back to Lad and must start a new nail.
 
-#### v - A Lad illegally strikes an Uprising nail
+### E - A Lad illegally strikes an Uprising nail
 
 If a Lad does not call "Uprising" or does not perform the necessary number of flips, the Uprising nail is reset along with that Lad's nail (they must hammer their current starting nail into the stump if it is not already finished before beginning a new one).
 
