@@ -21,9 +21,9 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
    * A - [Resetting a Lad's nail](#viiia---resetting-a-lad's-nail)
    * B - [Resetting a Lord's nail](#viiib---resetting-a-lord's-nail)
 * IX - [Penalties](#ix-penalties)
-   * A - [A Lad strikes another Lad's nail](#ixa---a-lad-strikes-another-lad's-nail)
+   * A - [A Lad strikes another Lad's nail](#ixa---a-lad-strikes-another-lads-nail)
    * B - [A Lad strikes a center nail](#ixb---a-lad-strikes-a-center-nail)
-   * C - [A Lord strikes a Lad's nail](#ixc---a-lord-strikes-a-lad's-nail)
+   * C - [A Lord strikes a Lad's nail](#ixc---a-lord-strikes-a-lads-nail)
    * D - [A Lord illegally strikes an Uprising nail](#ixd---a-lord-illegally-strikes-an-uprising-nail)
    * E - [A Lad illegally strikes an Uprising nail](#ixe---a-lad-illegally-strikes-an-uprising-nail)
 
@@ -231,7 +231,7 @@ If a Lord strikes a Lad's nail, the Lad may choose one of the following actions:
 
 As mentioned in the Uprising rules, a Lord may call "Uprising" at the start of their turn and perform an Uprising flip similar to how a Lad would (including the extra flip). If this does not result in the nail being finished, or the necessary number of flips are not performed, that Lord is instantly demoted back to Lad and must start a new nail.
 
-### E - A Lad illegally strikes an Uprising nail
+### IX.E - A Lad illegally strikes an Uprising nail
 
 If a Lad does not call "Uprising" or does not perform the necessary number of flips, the Uprising nail is reset along with that Lad's nail (they must hammer their current starting nail into the stump if it is not already finished before beginning a new one).
 
