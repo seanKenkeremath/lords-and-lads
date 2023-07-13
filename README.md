@@ -20,12 +20,13 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 * VIII - [Resetting Nails](#viii---resetting-nails)
    * A - [Resetting a Lad's nail](#viiia---resetting-a-lads-nail)
    * B - [Resetting a Lord's nail](#viiib---resetting-a-lords-nail)
-* IX - [Penalties](#ix-penalties)
+* IX - [Penalties](#ix---penalties)
    * A - [A Lad strikes another Lad's nail](#ixa---a-lad-strikes-another-lads-nail)
    * B - [A Lad strikes a center nail](#ixb---a-lad-strikes-a-center-nail)
    * C - [A Lord strikes a Lad's nail](#ixc---a-lord-strikes-a-lads-nail)
    * D - [A Lord illegally strikes an Uprising nail](#ixd---a-lord-illegally-strikes-an-uprising-nail)
    * E - [A Lad illegally strikes an Uprising nail](#ixe---a-lad-illegally-strikes-an-uprising-nail)
+* X - [Sparks](#x---sparks)
 
 # Rules
 
@@ -235,3 +236,6 @@ As mentioned in the Uprising rules, a Lord may call "Uprising" at the start of t
 
 If a Lad does not call "Uprising" or does not perform the necessary number of flips, the Uprising nail is reset along with that Lad's nail (they must hammer their current starting nail into the stump if it is not already finished before beginning a new one).
 
+## X - Sparks
+
+If a spark is observed when the hammer strikes a nail, any player may call "Spark!" and all players, Lords & Lads, must take a drink.
