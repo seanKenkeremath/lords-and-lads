@@ -238,4 +238,4 @@ If a Lad does not call "Uprising" or does not perform the necessary number of fl
 
 ## X - Sparks
 
-If a spark is observed by any player when the hammer strikes a nail, that player may exclaim "Spark!" and all players, Lords & Lads, must take a drink.
+If a spark is observed when the hammer strikes a nail, any player may call "Spark!" and all players, Lords & Lads, must take a drink.
