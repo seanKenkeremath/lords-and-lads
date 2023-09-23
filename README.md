@@ -20,7 +20,7 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 * VIII - [Resetting Nails](#viii---resetting-nails)
    * A - [Resetting a Lad's nail](#viiia---resetting-a-lads-nail)
    * B - [Resetting a Lord's nail](#viiib---resetting-a-lords-nail)
-* IX - [Penalties](#ix-penalties)
+* IX - [Penalties](#ix---penalties)
    * A - [A Lad strikes another Lad's nail](#ixa---a-lad-strikes-another-lads-nail)
    * B - [A Lad strikes a center nail](#ixb---a-lad-strikes-a-center-nail)
    * C - [A Lord strikes a Lad's nail](#ixc---a-lord-strikes-a-lads-nail)
@@ -157,11 +157,11 @@ If there is at least one Lord and no active Uprising nails currently exist, any 
 
 As long as there is at least one active Uprising nail and the current player is a Lad, they may call "Uprising" before flipping the hammer. If they do, then the turn officially counts as an Uprising, and Uprising rules apply for the remainder of the turn. 
 
-During an Uprising turn, the active player must perform one flip more than they normally would for a given number of strikes. In other words, the amount of strikes a player gets during an Uprising turn is `f - 1` where `f` is the number of flips performed (e.g., a double flip grants 1 strike). The first strike performed during an Uprising turn must be on an Uprising nail. Any other nails that are hit before a succesful strike on an Uprising nail are considered invalid and will incur penalties as outlined in the [Penalties](#ix-penalties) section. If the active player finishes the final Uprising nail, the Uprising is considered complete and all Lords are immediately demoted to Lads and must begin new starting nails. If that player has already finished their starting nail (i.e., the House of Lords was previously full), they instantly ascend to Lord. The Uprising is now no longer active and a new one may be started by future Lads.
+During an Uprising turn, the active player must perform one flip more than they normally would for a given number of strikes. In other words, the amount of strikes a player gets during an Uprising turn is `f - 1` where `f` is the number of flips performed (e.g., a double flip grants 1 strike). The first strike performed during an Uprising turn must be on an Uprising nail. Any other nails that are hit before a succesful strike on an Uprising nail are considered invalid and will incur penalties as outlined in the [Penalties](#ix---penalties) section. If the active player finishes the final Uprising nail, the Uprising is considered complete and all Lords are immediately demoted to Lads and must begin new starting nails. If that player has already finished their starting nail (i.e., the House of Lords was previously full), they instantly ascend to Lord. The Uprising is now no longer active and a new one may be started by future Lads.
 
 Each time a Lad successfully strikes an Uprising nail, they may give out a drink to a Lord during the Drink phase. This is the only situation in which a Lad can give a Lord a drink without penalty.
 
-A Lord may also call "Uprising" at the beginning of their turn before flipping the hammer. If they do, the current turn counts as an Uprising and Uprising rules apply for the remainder of the turn. The Uprising flip and subsequent strikes must be performed exactly as they would for a Lad. If these strikes finish the final Uprising nail the Uprising is considered complete and all other Lords are immediately demoted to Lads and must begin new starting nails. The active player retains their seat in the House of Lords. Drinks may be given out for each strike as they would for normal hits on a center nail as a Lord. If the strikes do not finish the final Uprising nail, or strikes are made without successfully completing the Uprising flip, penalties are incurred as mentioned in the [Penalties](#ix-penalties) section.
+A Lord may also call "Uprising" at the beginning of their turn before flipping the hammer. If they do, the current turn counts as an Uprising and Uprising rules apply for the remainder of the turn. The Uprising flip and subsequent strikes must be performed exactly as they would for a Lad. If these strikes finish the final Uprising nail the Uprising is considered complete and all other Lords are immediately demoted to Lads and must begin new starting nails. The active player retains their seat in the House of Lords. Drinks may be given out for each strike as they would for normal hits on a center nail as a Lord. If the strikes do not finish the final Uprising nail, or strikes are made without successfully completing the Uprising flip, penalties are incurred as mentioned in the [Penalties](#ix---penalties) section.
 
 ### VII.A - Rallying the Lads
 
@@ -227,9 +227,9 @@ If a Lord strikes a Lad's nail, the Lad may choose one of the following actions:
 
 ### IX.D - A Lord illegally strikes an Uprising nail
 
-As mentioned in the Uprising rules, a Lord may call "Uprising" at the start of their turn and perform an Uprising flip similar to how a Lad would (including the extra flip). If this does not result in the final Uprising nail being finished, or the necessary number of flips are not performed, that Lord is instantly demoted back to Lad and must start a new nail.
+As mentioned in the Uprising rules, a Lord may call "Uprising" at the start of their turn and perform an Uprising flip similar to how a Lad would (including the extra flip). If this does not result in the final uprising nail being finished then the strikes are considered illegal. This is also the case if the Lord strikes the nail without calling "Uprising" or if the necessary number of flips are not performed. As a penalty, that Lord is instantly demoted back to Lad and must start a new nail.
 
 ### IX.E - A Lad illegally strikes an Uprising nail
 
-If a Lad does not call "Uprising" or does not perform the necessary number of flips, all Uprising nails are reset along with that Lad's nail (they must hammer their current starting nail into the stump if it is not already finished before beginning a new one).
+If a Lad does not call "Uprising" or does not perform the necessary number of flips, all Uprising nails are reset (see [Resetting Nails](#viii---resetting-nails)) along with that Lad's nail.
 
