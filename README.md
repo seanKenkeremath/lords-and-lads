@@ -1,7 +1,7 @@
 # Lords & Lads
 Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 
-![Cover Art](/images/cover.png)
+![Cover Art](/images/cover2.png)
 
 # Table of Contents
 * I - [Materials Required](#i---materials-required)
