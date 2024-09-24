@@ -67,7 +67,7 @@ A turn consists of 3 phases:
 
 
 ### IV.A - Flip
-During the Flip phase, a player throws the hammer into the air so that it flips vertical (head over handle). 
+During the Flip phase, a player throws the hammer into the air so that it flips vertically (head over handle). 
 The player then attempts to catch them hammer after it flips at least once in the air.
 
 
@@ -85,7 +85,18 @@ Upon catching the hammer, the player must immediately move to the Strike phase w
 
 If a player fails to catch the hammer, they must drink twice and immediately end their turn, passing the hammer to the next play in turn order.
 
-Before flipping the hammer, if the active player is a Lad, they may call "Uprising" before flipping the hammer. If they do so, their turn counts as an Uprising (See Uprising section), and Uprising rules apply for the remainder of that turn.
+
+Before flipping the hammer, if the active player is a Lad, they may call "Uprising" or "Jester" before flipping the hammer.
+
+
+If they call "Uprising", their turn counts as an Uprising, and Uprising rules apply for the remainder of that turn. See [Uprising](#vii---uprising) section.
+
+
+If they call "Jester", the Lad becomes a Jester for the remainder of their turn. The Jester must perform a trick with the hammer that is incorporated into their Flip phase (e.g.: flipping the hammer behind their back, or under their leg, etc.).
+
+If the Jester successfully completes their trick and catches the hammer they are granted one (1) additional strike during the Strike phase of their current turn, and they are allowed to give a drink to a Lord during the Drink phase of their current turn.
+
+If the Jester fails to complete their trick and/or fails to catch the hammer, they must drink twice and they lose their next turn.
 
 
 ### IV.B - Strike
