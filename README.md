@@ -1,5 +1,5 @@
 # Lords & Lads
-Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
+Official rulebook for the Lords & Lads stump/hammerschlagen variant
 
 ![Cover Art](/images/cover.png)
 
@@ -45,8 +45,8 @@ All players must stand around the stump by their nail.
 
 
 ### II.B - Establishing Turn Order
-If this is the first game of Lords &amp; Lads, players choose and agree upon a way to decide who goes first.
-If this is not the first game of Lords &amp; Lads, the player who won the last game gets the first turn.
+If this is the first game of Lords & Lads, players choose and agree upon a way to decide who goes first.
+If this is not the first game of Lords & Lads, the player who won the last game gets the first turn.
 Turns will proceed clockwise from that player.
 
 ## III - Overview
