@@ -67,7 +67,7 @@ A turn consists of 3 phases:
 
 
 ### IV.A - Flip
-During the Flip phase, a player throws the hammer into the air so that it flips vertical (head over handle). 
+During the Flip phase, a player throws the hammer into the air so that it flips vertically (head over handle). 
 The player then attempts to catch them hammer after it flips at least once in the air.
 
 
