@@ -6,7 +6,7 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 # Table of Contents
 * I - [Materials Required](#i---materials-required)
 * II - [Setting Up](#ii---setting-up)
-   * A - [Nails](#iia---nails)
+   * A - [Nail placement](#iia---nail-placement)
    * B - [Establishing Turn Order](#iib---establishing-turn-order)
 * III - [Overview](#iii---overview)
 * IV - [Taking a Turn](#iv---taking-a-turn)
@@ -38,8 +38,9 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 * `Ceiling(n/2 - 1)` nails to be placed in the center of the stump when `n` is the number of players (6 players = 2 nails, 7 players = 3 nails, etc). The nails must also be of the same type.
 
 ## II - Setting Up
-### II.A - Nails
-Begin by hammering 1 nail for each player into the stump. All nails should be placed along the same ring of the stump. 
+### II.A - Nail placement
+Begin by hammering 1 nail for each player into the stump. All nails should be placed along the same ring of the stump and at least 2 inches away from any other nails if possible. Otherwise, they should be placed in whatever area maximizes distance from nearby nails.
+Nails may not be placed into cracks or holes in the wood such that hammering that nail is significantly easier than other nails. Exceptions to this may be made if explicitly agreed upon by players as a method of handicap.
 All nails should be hammered to an equal, agreed upon depth. Hammer the center nails into the center of the stump to the same depth. 
 All players must stand around the stump by their nail.
 
@@ -154,7 +155,7 @@ If a Lord drops their hammer during the Flip phase they are instantly demoted to
 
 ## VII - Uprising
 
-If there is at least one Lord and no active Uprising nails currently exist, any Lad may call "Uprising" at the start of their turn before flipping the hammer. If they do, they place one or more Uprising nails somewhere in the stump and hammer them to the same starting depth used for other nails. There should be one Uprising nail for every 7 players. I.e., the number of Uprising nails is equal to `Ceiling(n/7)` where `n` is the number of players (1-7 players = 1 nail, 8-14 players = 2 nails, etc).  Each Uprising nail must be placed at least 2 inches away from any other nails if possible. Otherwise, they should be placed in whatever area maximizes distance from nearby nails. Uprising rules apply for the remainder of that turn.
+If there is at least one Lord and no active Uprising nails currently exist, any Lad may call "Uprising" at the start of their turn before flipping the hammer. If they do, they place one or more Uprising nails somewhere in the stump and hammer them to the same starting depth used for other nails. There should be one Uprising nail for every 7 players. I.e., the number of Uprising nails is equal to `Ceiling(n/7)` where `n` is the number of players (1-7 players = 1 nail, 8-14 players = 2 nails, etc).  Uprising nails must be distanced from other nails and should not be placed in cracks or holes in the stump as outlined in [Nail placement](#iia---nail-placement). Uprising rules apply for the remainder of that turn.
 
 As long as there is at least one active Uprising nail and the current player is a Lad, they may call "Uprising" before flipping the hammer. If they do, then the turn officially counts as an Uprising, and Uprising rules apply for the remainder of the turn. 
 
