@@ -1,20 +1,30 @@
 name: Validate Rules
 
-on: [push, pull_request]
+on:
+  push:
+    branches: ["main"]
+  pull_request:
+    branches: ["main"]
+
+permissions:
+  contents: read
 
 jobs:
-  lint-and-validate:
+  validate:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      # General YAML lint
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
       - name: Lint Markdown
         uses: davidanson/markdownlint-cli2-action@v16
         with:
           globs: '**/*.md'
 
-      # Run custom linting (links, etc)
       - name: Run custom rules validation
         run: python scripts/validate_rules.py
