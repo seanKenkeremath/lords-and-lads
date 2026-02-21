@@ -41,6 +41,7 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 * `Ceiling(n/2 - 1)` nails to be placed in the center of the stump when `n` is the number of players (6 players = 2 nails, 7 players = 3 nails, etc). The nails must also be of the same type.
 
 ## II - Setting Up
+
 ### II.A - Nail placement
 
 Begin by hammering 1 nail for each player into the stump. All nails should be placed along the same ring of the stump and at least 2 inches away from any other nails if possible. Otherwise, they should be placed in whatever area maximizes distance from nearby nails.
