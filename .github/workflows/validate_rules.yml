@@ -1,0 +1,20 @@
+name: Validate Rules
+
+on: [push, pull_request]
+
+jobs:
+  lint-and-validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      # General YAML lint
+      - name: Lint Markdown
+        uses: davidanson/markdownlint-cli2-action@v16
+        with:
+          globs: '**/*.md'
+
+      # Run custom linting (links, etc)
+      - name: Run custom rules validation
+        run: python scripts/validate_rules.py
