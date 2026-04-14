@@ -6,10 +6,10 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 
 ## Download the Official Lords & Lads App
 
-<table>
+<table align="center">
   <tr>
-    <td align="center"><img src="/images/lnl_rules_app_store_qr_code.png" width="160"/><br/>iOS App Store</td>
-    <td align="center"><img src="/images/lnl_rules_play_store_qr_code.png" width="160"/><br/>Android Play Store</td>
+    <td align="center" style="padding: 0 40px;"><img src="/images/lnl_rules_app_store_qr_code.png" width="160"/><br/><img src="/images/app_store_icon.png" height="20"/> App Store</td>
+    <td align="center" style="padding: 0 40px;"><img src="/images/lnl_rules_play_store_qr_code.png" width="160"/><br/><img src="/images/play_store_icon.png" height="20"/> Play Store</td>
   </tr>
 </table>
 
