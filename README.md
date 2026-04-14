@@ -8,8 +8,8 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 
 <table align="center">
   <tr>
-    <td align="center" style="padding: 0 40px;"><img src="/images/lnl_rules_app_store_qr_code.png" width="160"/><br/><img src="/images/app_store_icon.png" height="20"/> App Store</td>
-    <td align="center" style="padding: 0 40px;"><img src="/images/lnl_rules_play_store_qr_code.png" width="160"/><br/><img src="/images/play_store_icon.png" height="20"/> Play Store</td>
+    <td align="center" style="padding: 0 60px;"><img src="/images/lnl_rules_app_store_qr_code.png" width="160"/><br/><img src="/images/app_store_icon.png" height="20" style="vertical-align: middle;"/> <strong>App Store</strong></td>
+    <td align="center" style="padding: 0 60px;"><img src="/images/lnl_rules_play_store_qr_code.png" width="160"/><br/><img src="/images/play_store_icon.png" height="20" style="vertical-align: middle;"/> <strong>Play Store</strong></td>
   </tr>
 </table>
 
