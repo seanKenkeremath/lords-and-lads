@@ -7,13 +7,13 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 ## Download the Official Lords & Lads App
 
 <p align="center">
-  <img src="/images/lnl_rules_app_store_qr_code.png" width="160" hspace="40"/>
-  <img src="/images/lnl_rules_play_store_qr_code.png" width="160" hspace="40"/>
+  <img src="/images/lnl_rules_app_store_qr_code.png" alt="App Store QR Code" width="160" hspace="40"/>
+  <img src="/images/lnl_rules_play_store_qr_code.png" alt="Play Store QR Code" width="160" hspace="40"/>
 </p>
 <p align="center">
-  <img src="/images/app_store_icon.png" height="20" align="absmiddle"/>&nbsp;<strong><a href="https://apps.apple.com/us/app/lords-lads/id6761262842">App Store</a></strong>
+  <img src="/images/app_store_icon.png" alt="App Store" height="20" align="absmiddle"/>&nbsp;<strong><a href="https://apps.apple.com/us/app/lords-lads/id6761262842">App Store</a></strong>
   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
-  <img src="/images/play_store_icon.png" height="20" align="absmiddle"/>&nbsp;<strong><a href="https://play.google.com/store/apps/details?id=com.lux.lnlrules">Play Store</a></strong>
+  <img src="/images/play_store_icon.png" alt="Play Store" height="20" align="absmiddle"/>&nbsp;<strong><a href="https://play.google.com/store/apps/details?id=com.lux.lnlrules">Play Store</a></strong>
 </p>
 
 # Table of Contents
