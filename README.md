@@ -9,9 +9,10 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 <p align="center">
   <img src="/images/lnl_rules_app_store_qr_code.png" width="160" hspace="40"/>
   <img src="/images/lnl_rules_play_store_qr_code.png" width="160" hspace="40"/>
-  <br/>
+</p>
+<p align="center">
   <img src="/images/app_store_icon.png" height="20" align="absmiddle"/>&nbsp;<strong>App Store</strong>
-  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
   <img src="/images/play_store_icon.png" height="20" align="absmiddle"/>&nbsp;<strong>Play Store</strong>
 </p>
 
