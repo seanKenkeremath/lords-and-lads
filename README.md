@@ -6,13 +6,14 @@ Official rulebook for the Lords &amp; Lads stump/hammerschlagen variant
 
 ## Download the Official Lords & Lads App
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td align="center"><img src="/images/lnl_rules_app_store_qr_code.png" width="160"/><br/><img src="/images/app_store_icon.png" height="20" align="absmiddle"/> <strong>App Store</strong></td>
-    <td width="80"></td>
-    <td align="center"><img src="/images/lnl_rules_play_store_qr_code.png" width="160"/><br/><img src="/images/play_store_icon.png" height="20" align="absmiddle"/> <strong>Play Store</strong></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="/images/lnl_rules_app_store_qr_code.png" width="160" hspace="40"/>
+  <img src="/images/lnl_rules_play_store_qr_code.png" width="160" hspace="40"/>
+  <br/>
+  <img src="/images/app_store_icon.png" height="20" align="absmiddle"/>&nbsp;<strong>App Store</strong>
+  &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img src="/images/play_store_icon.png" height="20" align="absmiddle"/>&nbsp;<strong>Play Store</strong>
+</p>
 
 # Table of Contents
 
